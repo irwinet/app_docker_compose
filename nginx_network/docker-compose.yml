@@ -1,0 +1,11 @@
+version: '3'
+services:
+  web:
+    container_name: nginx
+    ports:
+      - "8081:80"
+    image: nginx:latest
+    networks:
+      - net-test
+networks:
+  net-test:

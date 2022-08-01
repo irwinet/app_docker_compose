@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    container_name: nginx
+    ports:
+      - "8080:80"
+    volumes:
+      - "D:/Clases Udemy/Docker/app_docker_compose/nginx_vol/webpage:/usr/share/nginx/html"
+    image: nginx:latest
