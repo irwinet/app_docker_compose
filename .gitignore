@@ -1,0 +1,12 @@
+CMS/apps/wp/data
+CMS/apps/wp/html
+CMS/apps/swarm/html
+CMS/apps/zabbix/html
+CMS/apps/zabbix/data
+CMS/apps/drupal/data
+CMS/apps/prestashop/data
+CMS/apps/prestashop/html
+CMS/apps/joomla/data
+CMS/apps/joomla/html
+CMS/apps/react/data
+CMS/apps/guacamole/data
